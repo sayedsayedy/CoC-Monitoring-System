@@ -11,3 +11,4 @@ Führen Sie `main.py` aus, um das Programm zu starten. Folgen Sie den Anweisunge
 
 ## Lizenz
 Dieses Projekt ist lizenziert unter der MIT Lizenz. Siehe die LICENCE Datei für weitere Informationen.
+"# CoC-Monitoring-System" 
