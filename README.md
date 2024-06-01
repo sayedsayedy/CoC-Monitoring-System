@@ -10,7 +10,8 @@ This project implements a Chain of Custody (CoC) Monitoring System to ensure the
    cd CoC-Monitoring-System
    
 2. Install the required Python packages:
-    pip install -r requirements.txt
+    ```bash
+   pip install -r requirements.txt
 
 ## Usage
 1. Start the system:
